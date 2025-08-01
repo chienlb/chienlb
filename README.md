@@ -64,7 +64,7 @@
 - 🌱 **Currently Learning:** Advanced React patterns, Cloud Architecture, AI/ML
 - 👯 **Looking to Collaborate:** Open source projects and innovative web applications
 - 💬 **Ask me about:** React, Node.js, JavaScript, Python, and Modern Web Development
-- 📫 **How to reach me:** [your.email@example.com](mailto:your.email@example.com)
+- 📫 **How to reach me:** [your.email@example.com](mailto:baochien2602@gmail.com)
 - ⚡ **Fun fact:** I debug with console.log and I'm proud of it! 😄
 - 🎮 **Hobbies:** Gaming, Photography 📸, Coffee ☕, Reading Tech Blogs
 
